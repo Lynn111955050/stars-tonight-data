@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29",
+  "updated": "2026-10-30",
   "validThrough": "2027-08-14",
   "scope": "臺灣可規劃觀測的精選事件；日期為臺灣行事曆日期，並非精確極大時刻。不含未經確認的突發天象。",
   "events": [
@@ -72,8 +72,10 @@
       "end": "2026-12-14T23:59:59+08:00",
       "title": "雙子座流星雨極大期",
       "kind": "流星雨",
-      "note": "可於前一晚至當晚留意；極大期不是保證看到流星的時段。",
-      "source": "https://tam.gov.taipei/cp.aspx?n=A171D235DCDB4D60"
+      "note": "IMO預報極大中心約為臺灣時間12/14 22:00，實際高峰可能前後變動；臺灣可在當晚留意，仍受天氣、月光、輻射點高度與現場光害影響。",
+      "source": "https://tam.gov.taipei/cp.aspx?n=A171D235DCDB4D60",
+      "notifyAt": "2026-12-14T22:00:00+08:00",
+      "timeSource": "https://www.imo.net/files/meteor-shower/cal2026.pdf"
     },
     {
       "id": "ursids-2026-12-22",
@@ -131,5 +133,5 @@
     }
   ],
   "schemaVersion": 1,
-  "revision": 2026103001
+  "revision": 2026103002
 }
