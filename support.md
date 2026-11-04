@@ -12,3 +12,9 @@
 
 [隱私權政策](privacy.md)
 
+
+## OpenStreetMap 建物資料
+
+組建 23 使用的臺灣衍生建物資料可下載，壓縮檔內附資料格式及 ODbL 1.0 授權說明。資料來源為 © OpenStreetMap contributors，臺灣原始快照由 Geofabrik 提供。
+
+[下載組建 23 使用的建物資料](taiwan-osm-derived-build23.zip)
