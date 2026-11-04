@@ -18,3 +18,9 @@
 組建 23 使用的臺灣衍生建物資料可下載，壓縮檔內附資料格式及 ODbL 1.0 授權說明。資料來源為 © OpenStreetMap contributors，臺灣原始快照由 Geofabrik 提供。
 
 [下載組建 23 使用的建物資料](taiwan-osm-derived-build23.zip)
+
+## 星表與氣象資料
+
+模擬星空使用 David Nash（Astronexus）整理的 [HYG Database v4.1](https://github.com/astronexus/HYG-Database)，依 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 使用。App 選取星表欄位，並依地點與時間換算天體方向。衍生星表資料沿用同一授權。
+
+縣市預報標題來源為交通部中央氣象署全球資訊網的預報 RSS。逐時預報及海拔查詢由 Open-Meteo 提供。
