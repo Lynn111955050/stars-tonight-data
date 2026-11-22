@@ -1,4 +1,15 @@
-# 觀星App天象資料
+# 觀星 App 天象資料
+
+**Stars Tonight · Public Data**
+
+這個儲存庫提供《今晚有星星嗎？》使用的天象清單與地表覆蓋資料包。
+
+| 檔案 | 用途 |
+| --- | --- |
+| [sky_events.json](./sky_events.json) | App 讀取的天象事件清單，包含時間、類型及來源 |
+| [taiwan-osm-derived-build23.zip](./taiwan-osm-derived-build23.zip) | Build 23 使用的地表覆蓋資料包 |
+
+## 維護方式
 
 這是獨立於App程式的公開天象清單，不含使用者位置或帳號資料。
 
